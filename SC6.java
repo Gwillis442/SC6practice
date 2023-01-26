@@ -2,7 +2,7 @@ public class SC6 {
 
 
     public SC6() {
-    System.out.println("Hello world");
+
 
     }
 
