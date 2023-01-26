@@ -1,4 +1,5 @@
 public class SC6 {
+
     public SC6() {
 
     }
